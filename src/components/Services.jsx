@@ -1,6 +1,6 @@
 
 
-const services = () => {
+const Services = () => {
   return (
     <section className="section services" id="services">
         <div className="section-title">
@@ -52,4 +52,4 @@ const services = () => {
   );
 }
 
-export default services
+export default Services
