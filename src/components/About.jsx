@@ -1,7 +1,7 @@
 import React from "react";
 import aboutimage from "../assets/about.jpeg";
 
-const about = () => {
+const About = () => {
     return (
       <section className="section" id="about">
       <div className="section-title">
@@ -39,5 +39,5 @@ const about = () => {
     );
   }
   
-  export default about
+  export default About
   
